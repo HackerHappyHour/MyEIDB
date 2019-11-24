@@ -1,0 +1,22 @@
+{
+  "name": "myeidb",
+  "version": "1.0.0",
+  "description": "an electronics inventory database for cataloging and fast access to your parts inventory and datasheets",
+  "main": "index.js",
+  "scripts": {
+    "dev": "prisma2 dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackerHappyHour/MyEIDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HackerHappyHour/MyEIDB/issues"
+  },
+  "homepage": "https://github.com/HackerHappyHour/MyEIDB#readme",
+  "devDependencies": {
+    "prisma2": "^2.0.0-preview016.2"
+  }
+}
