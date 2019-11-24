@@ -4,7 +4,7 @@
   "description": "an electronics inventory database for cataloging and fast access to your parts inventory and datasheets",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "prisma2 dev"
   },
   "repository": {
     "type": "git",
